@@ -4,9 +4,22 @@ ADX POCKET - ARDUINO DIGITAL MODES TRANSCEIVER with CAT Control
 ADX POCKET is based on ADX Arduino Digital Modes Transceiver Design:
 
 ADX POCKET consists of two boards:
+
 1- ADX POCKET Main Board which incorporates a USB Hub, a USB to Serial conveter, An Atmega328P/AU microcontroller and a CM108 USB Soundcard in one board.
 
-This allows one USB connection to operate sound card and CAT control in a compact design and versatile design.
+2- ADX POCKET RF Transceiver board includes all circuitry needed for a ADX Digital transceiver RF section.
+
+RF board plugs on top of ADX POCKET controller board to create a full fledged digital modes optimized CAT controlled HF Transceiver.
+
+This allows one USB connection to operate sound card and CAT control in a compact and versatile HF Digital Modes Transceiver that can fit in a shirt pocket!
+
+ADX POCKET has two DC powering modes:
+
+1- USB powered QRPp Transceiver mode with sub 1 watt RF output arounf 700 mW.
+
+2- DC 12V external power mode where a DC 10 to 12V power is applied to have up to 5 Watts QRP transceiver.
+
+Power management is selected via a slide switch.
 
 IMPORTANT NOTE ON NT7S SI5351 LIBRARY VERSIONS   
 

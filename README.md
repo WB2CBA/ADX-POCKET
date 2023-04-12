@@ -1,6 +1,8 @@
 # ADX-POCKET
 ADX POCKET - ARDUINO DIGITAL MODES TRANSCEIVER with CAT Control
 
+- A short youtube video demonstrating ADX POCKET with CAT CONTROL: https://youtu.be/bQiwh-gOaUY
+
 ADX POCKET is based on ADX Arduino Digital Modes Transceiver Design:
 https://github.com/WB2CBA/ADX
 

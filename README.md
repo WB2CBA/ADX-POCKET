@@ -26,6 +26,16 @@ IMPORTANT NOTE ON NT7S SI5351 LIBRARY VERSIONS
 Please install SI5351 Library that is in ADX Github under ADX Firmware! 
 Or use Etherkit SI5351 Library Version 2.1.3. 
 ADX firmware is compatible with only Etherkit SI5351 Library version 2.1.3.
+
+ADX POCKET can be opreated via classic buttons and Leds interface or CAT Control interface depending on user's choice.
+
+ADX POCKET CAT Control Settings:
+- Rig Emulation: KENWOOD TS2000
+
+- Comm Port Settings: 115200 bps, 8 bit, 1 stop bit.
+
+- PTT Control: CAT
+
 ____________________________________________________________________________
 
 ADX is an Arduino based Digital Modes Transceiver.

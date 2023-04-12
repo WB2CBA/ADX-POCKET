@@ -15,9 +15,9 @@ This allows one USB connection to operate sound card and CAT control in a compac
 
 ADX POCKET has two DC powering modes:
 
-1- USB powered QRPp Transceiver mode with sub 1 watt RF output arounf 700 mW.
+1- USB powered QRPp Transceiver mode with sub 1 watt RF output around 700 mW whole rig powered from USB 5 volts of PC. ADX POCKET draws 320 mA average from USB port on TX.
 
-2- DC 12V external power mode where a DC 10 to 12V power is applied to have up to 5 Watts QRP transceiver.
+2- DC 12V external power mode where a DC 10 to 12V power is applied to get up to 5 Watts QRP RF Power.
 
 Power management is selected via a slide switch.
 

@@ -43,6 +43,6 @@ ADX POCKET can be opreated via classic buttons and Leds interface or CAT Control
 ADX POCKET CAT Control Settings:
 - Rig Emulation: KENWOOD TS2000
 
-- Comm Port Settings: 115200 bps, 8 bit, 1 stop bit.
+- Comm Port Settings: 9600 bps, 8 bit, 1 stop bit.
 
 - PTT Control: CAT
